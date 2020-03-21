@@ -1,4 +1,1 @@
-Easy space game build with Scratch 3.0 
-this game is version 1.0 it's have some bugs and wrong logic
-but I will fixed it in the further.
-Enjoy !
+Full version 1.0 is release !  >> https://drive.google.com/open?id=1hiA9JG02cdw0iEmx6iUeDTv8ET6aMLtt <<
